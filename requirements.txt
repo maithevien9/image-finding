@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+cloudinary
+numpy
+opencv-python
+paddlepaddle==3.0.0
+paddleocr>=3.0,<4
+firebase-admin
+pydantic
+python-dotenv

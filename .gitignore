@@ -1,0 +1,10 @@
+.env
+firebase-service-account.json
+venv/
+__pycache__/
+*.pyc
+backend/node_modules/
+backend/dist/
+backend/*.tsbuildinfo
+
+key.json
